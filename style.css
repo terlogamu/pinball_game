@@ -1,0 +1,50 @@
+.pole {
+	position: absolute;
+	left: 10px;
+	width: 500px;
+	height: 500px;
+	background: gray;
+	border-left: 10px solid black;
+	border-right: 10px solid black;
+}
+
+.bita {
+	position: absolute;
+	left: 220px;
+	top: 493px;
+	width: 100px;
+	height: 10px;
+	background: blue;
+	border-top: 5px solid black;
+}
+.bita2 {
+	position: absolute;
+	left: 220px;
+	width: 100px;
+	height: 10px;
+	background: blue;
+	border-bottom: 5px solid black;
+}
+
+.shar {
+	position: absolute;
+	left: 220px;
+	top: 250px;
+	width: 10px;
+	height: 10px;
+	background: orange;
+	border-radius: 5px;
+}
+#id_schet1{
+	font-size: 50px;
+	position: absolute;
+	left: 550px;
+	top: 0px;
+}
+#id_schet2{
+	font-size: 50px;
+	position: absolute;
+	left: 550px;
+	top: 480px;
+}
+
